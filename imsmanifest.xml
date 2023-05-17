@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<manifest identifier="wm2q2VGWRHxYvjNUrrWsdherDoYFjzYXUsiL_2Mr" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>NIC Rise Demo</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>NIC Rise Demo</title>
+        <adlcp:datafromlms>eyJjcHYiOiJVc2lMXzJNciIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Inter-Medium.woff" />
+<file href="scormcontent/lib/fonts/Inter-Black.woff" />
+<file href="scormcontent/lib/fonts/Inter-Bold.woff" />
+<file href="scormcontent/lib/fonts/Inter-Regular.woff" />
+<file href="scormcontent/lib/fonts/Inter-Light.woff" />
+<file href="scormcontent/assets/pg-mtA8LANrmi_F0_small_1581002268.JPG" />
+<file href="scormcontent/assets/xoNg6KIg1cuKB9Sm_quote_background.jpg" />
+<file href="scormcontent/assets/tSAJWxPl4lokQrjd_rI0fJOdhzqHy1VTo.jpg" />
+<file href="scormcontent/assets/6i2e_oRWxc1Br8Vb_n1UksMHowppSCXEX.png" />
+<file href="scormcontent/assets/nwVJ-B4Vd24nSyhB_CV3E4yEaBSKGrwqD.png" />
+<file href="scormcontent/assets/YUriHqjCG1xiRELr_w1pyDJDQl9Z7D7Pf.jpg" />
+<file href="scormcontent/assets/9PM4cjHE0ZmRUaKo_dQwV_mlZLl4pvyHw.jpg" />
+<file href="scormcontent/assets/Pd75imSWB-HVPkm-_MUODaau-lXl_PxHe.jpg" />
+<file href="scormcontent/assets/e0yO06A8JPZQLN7X_pGvWMfUWkNP-Im2E.jpg" />
+<file href="scormcontent/assets/yhPk6Qc2V8KK1EAY_2fSOozdHO8RT-d3q.jpg" />
+<file href="scormcontent/assets/0yzNGHhFrMP-HyA7_lMaW5fBziKzD7ZvQ.jpg" />
+<file href="scormcontent/assets/fhLqb97RKZ8mxBv-_6vWELqCbvjRvbKJQ.jpg" />
+<file href="scormcontent/assets/Jz80W8wqew2d1TFo_JrXfk6NEjFqfwWxE.jpg" />
+<file href="scormcontent/assets/nyfB43OwrXx5Tq9r_PNh7TOowfVMBHrjF.jpg" />
+<file href="scormcontent/assets/q6sv1gi0HLam5oRy_SyaXQWYpShEEj7qh.jpg" />
+<file href="scormcontent/assets/1_ACge6XCgewbVv8_sclmrxv9XA1LViRb.jpg" />
+<file href="scormcontent/assets/gxuoESkmKMFNUwVw_e1qG49rRxkOuhmXZ.jpg" />
+<file href="scormcontent/assets/zrHh_uyNOOSgG2y4_rUc96AJ3TpZNDPMT.jpg" />
+<file href="scormcontent/assets/CpqBWTudSWuCQCL0_kBOzb8eZmKtXSckx.jpg" />
+<file href="scormcontent/assets/P_6dZVnB6RHWf7mZ_-C65qIoKQVAlDMTN.jpg" />
+<file href="scormcontent/assets/k5Sz2F6E6OuYI3Kp_sp-gkbWjCFzNPhYq.jpg" />
+<file href="scormcontent/assets/5mVsRl6UDPShxFaV_sample_audio.mp3" />
+<file href="scormcontent/assets/3R5yTYJ91G8IAbJz_coastline_poster.png" />
+<file href="scormcontent/assets/NID9KRFyyrBzSBhy_coastline.mp4" />
+<file href="scormcontent/assets/TLdmaVknvE5IvTmi_egY7g026_DYYkjH9-NIC-Academy2023v3-Brandbook.pdf" />
+<file href="scormcontent/assets/LdqN2xjcsUIjtSjs_rCoF98v6sOUleAon.png" />
+<file href="scormcontent/assets/fqw7xe02U-SQ4nnr_BmsGeCzzd5-xRDsv.jpg" />
+<file href="scormcontent/assets/mQ-I3NOX-Bzl1PMZ_Cf9hiSjuY1M3c31M.png" />
+<file href="scormcontent/assets/b2lEjAlGO6HpyrxD_jMy3hEwrVbhxdudw.jpg" />
+<file href="scormcontent/assets/0g89KyDzmg8ZoEwj_mountains.jpg" />
+<file href="scormcontent/assets/C9czBw17d9E8Gd0M_WNsjahUw9dd6eolr.jpg" />
+<file href="scormcontent/assets/B9MR1ImRQX2EsjQA_qPpxTkOEFCMUmrNN.jpg" />
+<file href="scormcontent/assets/FzMpmX9wUM9m2Xf2_AFi2G3-tYQ2CidIe.jpg" />
+<file href="scormcontent/assets/JL2ydwNv6Es931eM_cover-image-0.jpg" />
+<file href="scormcontent/assets/tctyJJOf5EyyQS2A_example-header-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
